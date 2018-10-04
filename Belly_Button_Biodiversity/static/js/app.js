@@ -76,7 +76,7 @@ function buildCharts(sample) {
       });
     });   
   }
-}
+
 
 function init() {
   // Grab a reference to the dropdown select element
